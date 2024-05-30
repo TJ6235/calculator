@@ -1,0 +1,23 @@
+
+*{
+    overflow: hidden;
+}
+
+#calc_mainWrapper{
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+}
+#calc_inp{
+    height: 50px;
+    width: 350px;
+}
+#calc_subWrapper{
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(19, 19, 80);
+    width: 500px;
+}
+.common_red{
+    width: 118px;
+}
